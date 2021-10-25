@@ -1,0 +1,1 @@
+Hugo_Symbol	Entrez_Gene_Id	Center	NCBI_Build	Chromosome	Start_Position	End_Position	Strand	Variant_Classification	Variant_Type	Reference_Allele	Tumor_Seq_Allele1	Tumor_Seq_Allele2	dbSNP_RS	Tumor_Sample_Barcode	Mutation_Status	AAChange	Transcript_Id	TxChange	Exon_Number	DetailGene	RMSK	GeneHancer	COSMIC	t_depth	t_ref_count	t_alt_count	TumorVAF	num_soft	soft_name
